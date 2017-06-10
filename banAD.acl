@@ -614,6 +614,10 @@
 (^|\.)up\.qingdaonews\.com$
 
 # 广告联盟****************
+(^|\.)agfwe\.com$
+(^|\.)ddanq\.com$
+(^|\.)qytyf\.com$
+(^|\.)qxngg\.com$
 (^|\.)111cn\.net$
 (^|\.)114la\.com$
 (^|\.)123juzi\.net$
