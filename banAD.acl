@@ -614,6 +614,9 @@
 (^|\.)up\.qingdaonews\.com$
 
 # 广告联盟****************
+(^|\.)xiantantea\.com$
+(^|\.)ddg1277\.com$
+(^|\.)mmstat\.com$
 (^|\.)agfwe\.com$
 (^|\.)ddanq\.com$
 (^|\.)qytyf\.com$
