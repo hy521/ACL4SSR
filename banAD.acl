@@ -614,6 +614,9 @@
 (^|\.)up\.qingdaonews\.com$
 
 # 广告联盟****************
+(^|\.)qhres\.com$
+(^|\.)hw6\.com$
+(^|\.)18tzx\.com$
 (^|\.)tsrc8\.com$
 (^|\.)bjufc\.com$
 (^|\.)gstatic\.com$
